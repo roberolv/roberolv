@@ -1,6 +1,6 @@
 <h1 align="center"># Hola, soy Rober!! 👋
 
-<h1 align="center">Soy un Data Science apasionado por la tecnología, la innovación y el poder de los datos. Soy muy curioso y me encanta crear proyectos que resuelvan problemas y ayuden a los demás.
+<h2 align="center">Soy un Data Science apasionado por la tecnología, la innovación y el poder de los datos. Soy muy curioso y me encanta crear proyectos que resuelvan problemas y ayuden a los demás.
 Por aquí iré dejando algunos de mis proyectos personales que vaya haciendo.
 
 
@@ -30,6 +30,4 @@ Por aquí iré dejando algunos de mis proyectos personales que vaya haciendo.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roberolv&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=roberolv&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<h1 align="center"><img src="https://komarev.com/ghpvc/?username=roberolv&label=Profile%20views&color=0e75b6&style=flat" alt="roberolv" /> </p>
+<h1 align="center">[![](https://visitcount.itsvg.in/api?id=roberolv&icon=0&color=0)](https://visitcount.itsvg.in)
