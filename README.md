@@ -1,3 +1,5 @@
+<p align="center">![image](https://github.com/roberolv/roberolv/assets/83412910/7cc13e2d-b9ee-42e4-a99b-89d82d4e5765)
+
 <h1 align="center">Hi 👋, I'm Rober</h1>
 <h4 align="center">Soy un Data Science apasionado por la tecnología, la innovación y el poder de los datos. Soy muy curioso y me encanta crear proyectos que resuelvan problemas y ayuden a los demás. Por aquí iré dejando algunos de mis proyectos personales que vaya haciendo.</h4>
 <h4 align="center">....
