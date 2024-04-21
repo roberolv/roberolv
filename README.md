@@ -20,7 +20,7 @@
 <h3 align="left">- Work:</h3>💼
 <p align="left">Si te gustan mis proyectos estoy encantado de cooperar en otros o recibir cualquier feedback constructivo sobre los mios.</p>
 
-<h4 align="center">....
+<p align="center">....
 
 <p align="left">If you like my projects I am happy to cooperate on others or receive any constructive feedback on mine.
   
