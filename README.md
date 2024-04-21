@@ -1,14 +1,8 @@
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Rober</h1>
 <h4 align="center">Soy un Data Science apasionado por la tecnología, la innovación y el poder de los datos. Soy muy curioso y me encanta crear proyectos que resuelvan problemas y ayuden a los demás. Por aquí iré dejando algunos de mis proyectos personales que vaya haciendo.</h3>
 
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/robertoolivapastor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/robertoolivapastor" height="30" width="40" /></a>
 </p>
@@ -19,7 +13,7 @@
 <h3 align="left">OTHERS:</h3>
 <p align="left">- SPARK - TABLEAU - MACHINE LEARNING - DEEP LEARNING - NLP - ETL - IA.
 
-<h3 align="left">💼 Work</h3>
+<h3 align="left">💼 Work:</h3>
 <p align="left">Si te gustan mis proyectos estoy encantado de cooperar en otros o recibir cualquier feedback constructivo sobre los mios.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roberolv&show_icons=true&theme=dark&locale=en&layout=compact" alt="roberolv" /></p>
