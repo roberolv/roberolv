@@ -21,9 +21,10 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roberolv&show_icons=true&theme=dark&locale=en&layout=compact" alt="roberolv" /></p>
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=roberolv&show_icons=true&theme=dark&locale=en" alt="roberolv" /></p>
 
------------------------------------------------------------------------------------------------------------------------------------------------
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roberolv&theme=dark" alt="roberolv" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=roberolv&label=Profile%20views&color=0da6e7&style=flat-square" alt="roberolv" /> </p>
