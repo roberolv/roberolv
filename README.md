@@ -13,6 +13,6 @@ Por aquí iré dejando algunos de mis proyectos personales que vaya haciendo.
 - 💼 📫 Conecta conmigo en LinkedIn : www.linkedin.com/in/robertoolivapastor
 
 ## Trabajo
-Si te gustan mis proyectos y quieres apoyar mi trabajo estoy encantado de cooperar en otros o recibir cualquier feedback constructivo.
+Si te gustan mis proyectos estoy encantado de cooperar en otros o recibir cualquier feedback constructivo sobre los mios.
 
 
