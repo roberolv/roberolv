@@ -10,7 +10,7 @@ Soy un Data Science apasionado por la tecnología, la innovación y el poder de 
 ## Contacto
 - 💼 📫 Conecta conmigo en LinkedIn : www.linkedin.com/in/robertoolivapastor
 
-## Apoya mi trabajo
+## Trabajo
 Si te gustan mis proyectos y quieres apoyar mi trabajo estoy encantado de cooperar en otros o recibir cualquier feedback constructivo.
 
 
