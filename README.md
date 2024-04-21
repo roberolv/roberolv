@@ -22,7 +22,7 @@
 
 <h4 align="center">....
 
-<pIf you like my projects I am happy to cooperate on others or receive any constructive feedback on mine.</p>
+<p align="left">If you like my projects I am happy to cooperate on others or receive any constructive feedback on mine.
   
 -----------------------------------------------------------------------------------------------------------------------------------------------
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roberolv&show_icons=true&theme=dark&locale=en&layout=compact" alt="roberolv" /></p>
