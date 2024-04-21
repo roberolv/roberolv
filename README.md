@@ -14,5 +14,6 @@ Por aquí iré dejando algunos de mis proyectos personales que vaya haciendo.
 
 ## Trabajo
 Si te gustan mis proyectos estoy encantado de cooperar en otros o recibir cualquier feedback constructivo sobre los mios.
+Animate y contactame en Linkedin!
 
 
