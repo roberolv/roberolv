@@ -1,7 +1,8 @@
 # Hola, soy Rober!! 👋
 
 ## Sobre mí
-Soy un Data Science apasionado por la tecnología, la innovación y el poder de los datos. Soy muy curioso y me encanta crear proyectos que resuelvan problemas y ayuden a lso demás.
+Soy un Data Science apasionado por la tecnología, la innovación y el poder de los datos. Soy muy curioso y me encanta crear proyectos que resuelvan problemas y ayuden a los demás.
+Por aquí iré dejando algunos de mis proyectos personales que vaya haciendo.
 
 ## Habilidades
 - **Lenguajes de programación**: Python, SQL, SCALA.
