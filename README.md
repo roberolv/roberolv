@@ -5,8 +5,9 @@ Soy un Data Science apasionado por la tecnología, la innovación y el poder de 
 Por aquí iré dejando algunos de mis proyectos personales que vaya haciendo.
 
 ## Habilidades
-- **Lenguajes de programación**: Python, SQL, SCALA.
-- **Herramientas y tecnologías**: SQL, SPARK, DATABRICKS, MONGODB, TABLEAU.
+- **Lenguajes de programación**: PYTHON, SQL, SPARK, SCALA.
+- **Herramientas y tecnologías**: SQL, MONGODB, SPARK, DATABRICKS, TABLEAU.
+- **Skills**: Machine Learning, Deep Learning, NLP, ETL, IA.
 
 ## Contacto
 - 💼 📫 Conecta conmigo en LinkedIn : www.linkedin.com/in/robertoolivapastor
