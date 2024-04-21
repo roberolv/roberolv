@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hola, soy Rober!! 👋
 
-<!--
-**roberolv/roberolv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy un Data Science apasionado por la tecnología, la innovación y el poder de los datos. Soy muy curioso y me encanta crear proyectos que resuelvan problemas y ayuden a lso demás.
 
-Here are some ideas to get you started:
+## Habilidades
+- **Lenguajes de programación**: Python, SQL, SCALA.
+- **Herramientas y tecnologías**: SQL, SPARK, DATABRICKS, MONGODB, TABLEAU.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+- 💼 📫 Conecta conmigo en LinkedIn : www.linkedin.com/in/robertoolivapastor
+
+## Apoya mi trabajo
+Si te gustan mis proyectos y quieres apoyar mi trabajo estoy encantado de cooperar en otros o recibir cualquier feedback constructivo.
+
+
