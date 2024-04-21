@@ -5,9 +5,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Rober</h1>
-<h3 align="center">Soy un Data Science apasionado por la tecnología, la innovación y el poder de los datos. Soy muy curioso y me encanta crear proyectos que resuelvan problemas y ayuden a los demás. Por aquí iré dejando algunos de mis proyectos personales que vaya haciendo.</h3>
+<h4 align="center">Soy un Data Science apasionado por la tecnología, la innovación y el poder de los datos. Soy muy curioso y me encanta crear proyectos que resuelvan problemas y ayuden a los demás. Por aquí iré dejando algunos de mis proyectos personales que vaya haciendo.</h3>
 
- <img src="https://komarev.com/ghpvc/?username=roberolv&label=Profile%20views&color=0da6e7&style=flat-square" alt="roberolv" /> </p>
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -30,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roberolv&theme=dark" alt="roberolv" /></p>
 
-<p align="center">[![](https://visitcount.itsvg.in/api?id=roberolv&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=roberolv&label=Profile%20views&color=0da6e7&style=flat-square" alt="roberolv" /> </p>
