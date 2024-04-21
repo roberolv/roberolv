@@ -6,7 +6,7 @@
 <h4 align="center">I´m a Data Scientist passionate about technology, innovation and the power of data. I´m very curious and I love to create projects that solve problems and help others. Here I will be leaving some of my personal projects that I will be doing.</h4>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">- Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/robertoolivapastor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robertoolivapastor" height="30" width="40" /></a>
 </p>
