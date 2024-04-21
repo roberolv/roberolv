@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rober</h1>
 <h4 align="center">Soy un Data Science apasionado por la tecnología, la innovación y el poder de los datos. Soy muy curioso y me encanta crear proyectos que resuelvan problemas y ayuden a los demás. Por aquí iré dejando algunos de mis proyectos personales que vaya haciendo.</h4>
-
+<h4 align="center">....
 <h4 align="center">I am a Data Scientist passionate about technology, innovation and the power of data. I am very curious and I love to create projects that solve problems and help others. Here I will be leaving some of my personal projects that I will be doing.</h4>
 
 
