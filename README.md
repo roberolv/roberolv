@@ -17,7 +17,7 @@
 <h3 align="left">- OTHERS:</h3>
 <p align="left">- SPARK - TABLEAU - MACHINE LEARNING - DEEP LEARNING - NLP - ETL - IA.
 
-<h3 align="left">- Work:</h3>💼
+<h3 align="left">- Work:</h3>
 <p align="left">Si te gustan mis proyectos estoy encantado de cooperar en otros o recibir cualquier feedback constructivo sobre los mios.</p>
 
 <p align="center">....
